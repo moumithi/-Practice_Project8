@@ -1,0 +1,13 @@
+.box {
+	height: 100vh;
+	background-color: lightpink;
+}
+
+.layout {
+	width: 50%;
+	height: 200px;
+	background-color: steelblue;
+	margin-bottom: 1px ;
+	float: left;
+	border: 1px solid white;
+}
